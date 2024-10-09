@@ -47,7 +47,7 @@ class Program
         printMessage(
             true,
             ConsoleColor.DarkGray,
-            "Gjord av Saga Einarsdotter Kikajon för kursen Programmering i C# .NET på Mittuniversitetet 2024."
+            "Programmet gjort av Saga Einarsdotter Kikajon för kursen Programmering i C# .NET på Mittuniversitetet 2024."
         );
     }
 
@@ -194,6 +194,7 @@ class Program
                     break;
                 //X
                 case 88:
+                    Clear();
                     outroText();
                     onSwitch = false;
                     break;

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/skikajon/Desktop/förvaring/skola/csharp/guestbook/guestbook.csproj": {}
+    "/Users/skikajon/Desktop/förvaring/skola/csharp/guestbook/guestbook.csproj": {}
   },
   "projects": {
-    "/Users/skikajon/Desktop/förvaring/skola/csharp/guestbook/guestbook.csproj": {
+    "/Users/skikajon/Desktop/förvaring/skola/csharp/guestbook/guestbook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/skikajon/Desktop/förvaring/skola/csharp/guestbook/guestbook.csproj",
+        "projectUniqueName": "/Users/skikajon/Desktop/förvaring/skola/csharp/guestbook/guestbook.csproj",
         "projectName": "guestbook",
-        "projectPath": "/Users/skikajon/Desktop/förvaring/skola/csharp/guestbook/guestbook.csproj",
+        "projectPath": "/Users/skikajon/Desktop/förvaring/skola/csharp/guestbook/guestbook.csproj",
         "packagesPath": "/Users/skikajon/.nuget/packages/",
-        "outputPath": "/Users/skikajon/Desktop/förvaring/skola/csharp/guestbook/obj/",
+        "outputPath": "/Users/skikajon/Desktop/förvaring/skola/csharp/guestbook/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/skikajon/.nuget/NuGet/NuGet.Config"
