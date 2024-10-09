@@ -96,6 +96,7 @@ class Program
             {
                 //Lägg till nytt inlägg:
                 case '1':
+                    Clear();
                     CursorVisible = true;
 
                     //Be om författare
@@ -150,6 +151,7 @@ class Program
                     break;
                 //Radera inlägg:
                 case '2':
+                    Clear();
                     CursorVisible = true;
                     /* printMessage(false, ConsoleColor.Red, "Obs! Denna åtgärd kan inte ångras! "); */
                     Write("Index som ska raderas: ");

@@ -12,3 +12,14 @@
 /Users/skikajon/Desktop/guestbook/obj/Debug/net8.0/guestbook.pdb
 /Users/skikajon/Desktop/guestbook/obj/Debug/net8.0/guestbook.genruntimeconfig.cache
 /Users/skikajon/Desktop/guestbook/obj/Debug/net8.0/ref/guestbook.dll
+/Users/skikajon/Desktop/förvaring/skola/csharp/guestbook/bin/Debug/net8.0/guestbook
+/Users/skikajon/Desktop/förvaring/skola/csharp/guestbook/bin/Debug/net8.0/guestbook.dll
+/Users/skikajon/Desktop/förvaring/skola/csharp/guestbook/bin/Debug/net8.0/guestbook.pdb
+/Users/skikajon/Desktop/förvaring/skola/csharp/guestbook/obj/Debug/net8.0/guestbook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/skikajon/Desktop/förvaring/skola/csharp/guestbook/obj/Debug/net8.0/guestbook.AssemblyInfoInputs.cache
+/Users/skikajon/Desktop/förvaring/skola/csharp/guestbook/obj/Debug/net8.0/guestbook.AssemblyInfo.cs
+/Users/skikajon/Desktop/förvaring/skola/csharp/guestbook/obj/Debug/net8.0/guestbook.csproj.CoreCompileInputs.cache
+/Users/skikajon/Desktop/förvaring/skola/csharp/guestbook/obj/Debug/net8.0/guestbook.sourcelink.json
+/Users/skikajon/Desktop/förvaring/skola/csharp/guestbook/obj/Debug/net8.0/guestbook.dll
+/Users/skikajon/Desktop/förvaring/skola/csharp/guestbook/obj/Debug/net8.0/refint/guestbook.dll
+/Users/skikajon/Desktop/förvaring/skola/csharp/guestbook/obj/Debug/net8.0/guestbook.pdb
